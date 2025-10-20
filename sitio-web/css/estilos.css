@@ -108,12 +108,3 @@ footer {
   border-radius: 5px;
 }
 
-@media (max-width: 600px) {
-  header h1 {
-    font-size: 1.4rem;
-  }
-
-  .hero {
-    padding: 2rem 1rem;
-  }
-}
